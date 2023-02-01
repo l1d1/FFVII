@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&family=Josefin+Sans:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&family=Josefin+Sans:wght@500&family=Yanone+Kaffeesatz:wght@300&display=swap');
+body{
+	background-color: #050A0D;
+}
+h1{
+	text-align: center;
+	font-family: 'Josefin Sans', sans-serif;
+	color: #026873;
+}
+p{
+	font-size: 16pt;
+	font-family: 'DM Sans', sans-serif;
+	color: #FFFFFF;
+
+}
+ul{
+	list-style-type: none;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	color: #FFFFFF;
+	font-size: 18pt;
+	border: 3px inset #FFFFFF;
+	width: 40vw;
+	margin-left: 1vw;
+}
+ul li:hover{
+	background-color: #730202;
+	border: 1px inset #583E3D;
+	border-radius: 12px;
+}
+ol{
+    list-style-type: none;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    color: #FFFFFF;
+    font-size: 18pt;
+    border: 3px inset #FFFFFF;
+    width: 40vw;
+    margin-left: 1vw;
+}
+ol li:hover{
+	background-color: #730202;
+	border: 1px inset #583E3D;
+	border-radius: 12px;
+}
+img{
+	width: 40vw;
+	height: 48vh;
+	margin-left: 3vw;
+}
+a{
+	color: #BFBFBF;
+	font-size: 16pt;
+	font-family: 'DM Sans', sans-serif;
+}
+table{
+	color: #FFFFFF;
+	border: 1px solid #FFFFFF;
+	font-family: 'DM Sans', sans-serif;
+}
